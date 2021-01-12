@@ -19,3 +19,7 @@ IT 기술 용어 정리
 
   - JPA Java Persistence API : https://ko.wikipedia.org/wiki/%EC%9E%90%EB%B0%94_%ED%8D%BC%EC%8B%9C%EC%8A%A4%ED%84%B4%EC%8A%A4_API
     * 자바 플랫폼 SE와 자바 플랫폼 EE를 사용하는 응용프로그램에서 관계형 데이터베이스의 관리를 표현하는 자바 API
+
+  - 하이버네이트 Hibernate : https://ko.wikipedia.org/wiki/%ED%95%98%EC%9D%B4%EB%B2%84%EB%84%A4%EC%9D%B4%ED%8A%B8
+    * 자바 언어를 위한 객체 관계 매핑 프레임워크
+    * 객체 지향 도메인 모델을 관계형 데이터베이스로 매핑하기 위한 프레임워크를 제공
