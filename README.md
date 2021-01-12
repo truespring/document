@@ -23,3 +23,7 @@ IT 기술 용어 정리
   - 하이버네이트 Hibernate : https://ko.wikipedia.org/wiki/%ED%95%98%EC%9D%B4%EB%B2%84%EB%84%A4%EC%9D%B4%ED%8A%B8
     * 자바 언어를 위한 객체 관계 매핑 프레임워크
     * 객체 지향 도메인 모델을 관계형 데이터베이스로 매핑하기 위한 프레임워크를 제공
+
+  - 티미리프 Thymeleaf : https://offbyone.tistory.com/410
+    * HTML, XML, JavaScript, CSS 및 일반 텍스트를 처리 할 수 있는 웹 및 독립형 환경에서 사용할 수 있는 Java 템플릿 엔진
+    * html파일을 가져와서 파싱해서 분석후 정해진 위치에 데이터를 치환해서 웹 페이지를 생성
