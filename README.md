@@ -15,7 +15,7 @@ IT 기술 용어 정리
     * 사용자의 직접적인 활발한 관리 없이 특히 데이터 스토리지(클라우드 스토리지)와 컴퓨팅 파워와 같은 컴퓨터 시스템 자원을 필요 시 바로 제공(on-demand availability)하는 것
     - Iaas, Paas, Saas : https://wnsgml972.github.io/network/2018/08/14/network_cloud-computing/
 
-  - 카프타 kafka : https://ko.wikipedia.org/wiki/%EC%95%84%ED%8C%8C%EC%B9%98_%EC%B9%B4%ED%94%84%EC%B9%B4
+  - 카프카 kafka : https://ko.wikipedia.org/wiki/%EC%95%84%ED%8C%8C%EC%B9%98_%EC%B9%B4%ED%94%84%EC%B9%B4
     * 실시간 데이터 피드를 관리하기 위해 통일된, 높은 처리량, 낮은 지연시간을 지닌 플랫폼을 제공하는 것
 
   - JPA Java Persistence API : https://ko.wikipedia.org/wiki/%EC%9E%90%EB%B0%94_%ED%8D%BC%EC%8B%9C%EC%8A%A4%ED%84%B4%EC%8A%A4_API
